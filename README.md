@@ -52,7 +52,7 @@ In the RMXP version of RGSS, fonts are loaded directly from system specific sear
 
 If a requested font is not found, no error is generated. Instead, a built-in font is used. By default, this font is Liberation Sans.
 
-## What doesn't work
+## What doesn't work.
 
 * wma audio files
 * Creating Bitmaps with sizes greater than your hardware's texture size limit.
